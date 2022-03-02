@@ -38,7 +38,7 @@ const Resultado = ({resultado}) => {
             <div>
                 <Precio>El precio es de: <span>{PRICE}</span></Precio>
                 <Texto>Precio más alto del día: <span>{HIGHDAY}</span></Texto>
-                <Texto>Precio más alto del día: <span>{LOWDAY}</span></Texto>
+                <Texto>Precio más bajo del día: <span>{LOWDAY}</span></Texto>
                 <Texto>Variación últimas 24 horas: <span>{CHANGEPCT24HOUR}</span></Texto>
                 <Texto>Última actualización: <span>{LASTUPDATE}</span></Texto>
             </div>
