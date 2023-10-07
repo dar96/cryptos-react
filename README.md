@@ -3,9 +3,11 @@
 ## Table of Contents:
 ---
 
-- [Description and Context](readme_description-and-Context.md)
-- [User Guide](readme_user-guide.md)
-- [Author(s)](readme_author(s).md)
+- [Description and Context](#description-and-context)
+- [User Guide](#user-guide)
+- [Technologies and Dependencies](#technologies-and-dependencies)
+- [Author(s)](#authors)
+- [Video](#video)
 
 
 
